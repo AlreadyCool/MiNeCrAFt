@@ -11,3 +11,5 @@ U for unique
 C for cloud
 dont press in caps lock
 PC/Laptop only
+Shift+p to increase block size
+Shift+m to decrease block size
